@@ -1,18 +1,24 @@
 {
-    "name": "jxlwqq/json-editor",
+    "name": "unnovate/json-editor",
     "description": "JSON Editor for Laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "extension"],
-    "homepage": "https://github.com/jxlwqq/json-editor",
+    "homepage": "https://github.com/codeparl/json-editor",
     "license": "MIT",
     "authors": [
         {
             "name": "jxlwqq",
-            "email": "jxlwqq@gmail.com"
+            "email": "jxlwqq@gmail.com",
+            
+        },
+         {
+            "name": "Mugabo",
+            "email": "cybarox@gmail.com",
+         
         }
     ],
     "require": {
-        "php": ">=7.0.0",
+        "php": ">=8.2.0",
         "encore/laravel-admin": "~1.6"
     },
     "require-dev": {
