@@ -19,7 +19,7 @@
     ],
     "require": {
         "php": "^8.2.0",
-        "encore/laravel-admin": "~1.6"
+        "encore/laravel-admin": "dev-master"
     },
     "require-dev": {
         
